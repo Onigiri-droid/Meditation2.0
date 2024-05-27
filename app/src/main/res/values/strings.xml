@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meditation</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="title_home"></string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications"></string>
+</resources>
